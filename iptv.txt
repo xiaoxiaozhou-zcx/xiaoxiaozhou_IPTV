@@ -1,10 +1,7 @@
-珠江台,http://gxdl-lhs.8866.org:85/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
 珠江台,https://php.17186.eu.org/gdtv/gdzj.m3u8
-珠江台,http://gxdl-lhs.8866.org:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+珠江台,http://gxdl-lhs.8866.org:85/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
 大湾区卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
-大湾区卫视,https://epg.pw/stream/fef2b0a1b538aec733fe12fd7ce2027a199d8f6f0f3a64753063d04777744b47.m3u8
 大湾区卫视,https://php.17186.eu.org/gdtv/nfws.m3u8
-大湾区卫视,http://113.117.74.28:8081/hls/80/index.m3u8
 大湾区卫视,http://38.64.72.148/hls/modn/list/4011/chunklist0.m3u8
 CCTV1,http://cfss.cc/api/ysp/cctv1.m3u8
 CCTV2,http://cfss.cc/api/ysp/cctv2.m3u8
