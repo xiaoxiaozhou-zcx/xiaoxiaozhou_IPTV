@@ -3,6 +3,7 @@
 大湾区卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
 大湾区卫视,https://php.17186.eu.org/gdtv/nfws.m3u8
 大湾区卫视,http://38.64.72.148/hls/modn/list/4011/chunklist0.m3u8
+大湾区卫视,https://ip4024712375.mobgslb.tbcache.com/tcdn.itouchtv.cn/live/nfws.m3u8?t_token=fdaf3e1dccd90b2a1c8d2b6de374d89e-casasN2W8hyNnbYL4BzbFQiddXFxt5yfSBMMCSMid0dS33Y2L5CpkUP6ReWtwPXcyyvYP3CwNI05kzonu8dZZRRYCOWD6NdG7CTeqUmWn4cVIZ8oUuYZ5vr%2BdATuRnEx8bgFcOdoZvqRUNdUJwOnbOEN9ARpf80SsGgHB9VKjngLGhIkMwAdxLqQKKQqCjWcYoxaZKsSLWuCEkWyfNgKQyx9bMigNGYbnVDaXwMkawn0%2BTqWP7OyTzoTvTOgoIEhCspFVTlrbRSMJcm8yPCHjgZWOTQpgtP0RkBBAaFcZevJU3POgJca53OBzbC%2Bu%2BQlOBkkVcqxFxVWS5qkR%2FZN8TQy%2F8TqpDLXiIjenp45NAHK6zU5xFMShQJjDrr0MDBI
 TVB星河,http://line.premiumpowers.net/play/live.php?
 TVB星河,http://113.117.74.12:8081/hls/135/index.m3u8
 mac=00:1A:79:73:45:10&extension=ts&stream=153506
